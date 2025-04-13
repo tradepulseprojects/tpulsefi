@@ -223,8 +223,8 @@
   color: #aaa;
 }
 
-/* Claim button */
-.claim-button {
+/* Connect Wallet button */
+.Connect Wallet-button {
   width: 100%;
   background: linear-gradient(135deg, #444, #111);
   color: white;
@@ -237,12 +237,12 @@
   transition: all 0.3s;
 }
 
-.claim-button:hover {
+.Connect Wallet-button:hover {
   transform: translateY(-2px);
   box-shadow: 0 4px 15px rgba(255, 255, 255, 0.1);
 }
 
-.claim-button:disabled {
+.Connect Wallet-button:disabled {
   background: #222;
   color: #555;
   cursor: not-allowed;
