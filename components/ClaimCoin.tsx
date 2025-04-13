@@ -7,7 +7,7 @@ type ClaimCoinProps = {
   userAddress: string;
 };
 
-type TabType = 'claim' ;
+type TabType = 'Connect Wallet' ;
 
 type SocialPlatform = 'telegram' | 'twitter' ;
 
